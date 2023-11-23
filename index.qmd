@@ -1,0 +1,20 @@
+---
+title: "Pharma R Opportunities for Under-represented Developers (PROUD)"
+description: Pharma R Opportunities for Under-represented Developers
+---
+
+_NAME ALTERNATIVES_:  
+- inclusiveR
+- spotlight/R
+
+# What is PROUD? 
+PROUD is an inclusive R community for developers who primarily work in the pharmacuetical industry. 
+
+# What are PROUD's objectives? 
+The goals of PROUD are to provide a welcoming, equitable and supportive space for people to upskill, share knowledge and build their network. We hope this space will particularly build inclusibity for those that are underrepresented and underrecognised in more traditional communities. 
+
+# How can I get involved? 
+
+- slack? 
+- monthly meet ups / webinars 
+

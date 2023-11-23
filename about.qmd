@@ -1,0 +1,18 @@
+---
+title: "About"
+---
+
+# Why is an inclusive R community important? 
+
+The more mainstream approaches to networking and skills sharing or development can, in some cases, lack diversity and inclusion. 
+
+_These are a bit spicy?_
+
+- Have you ever gone to a panel where we only hear the perspective of those from a single demongraphic of the community? 
+
+- Have you read issues or discussions in the R community and felt discouraged from sharing your work by the aggressive communication style used?
+
+Let's work together in our safe space to build a community where we share learnings, upskill each other and facilitate network building. 
+
+
+
