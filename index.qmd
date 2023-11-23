@@ -1,20 +1,49 @@
 ---
-title: "Pharma R Opportunities for Under-represented Developers (PROUD)"
-description: Pharma R Opportunities for Under-represented Developers
+title: "Pharma R Opportunities for Under-recognised Developers (PROUD)"
+description: Pharma R Opportunities for Under-recognised Developers
 ---
 
 _NAME ALTERNATIVES_:  
-- inclusiveR
-- spotlight/R
+- inclusiveR  
+- spotlight/R  
+- PharmaPROUD
+
+# Who are the PROUD chairs?
+Christina, Orla, Harvey. 
+
+# What's our origin story?
+TL;DR 
+Rage against the patriarchy. 
+
+time of change in terms of tools and tech -> people who already have the skills (exposure) progressing faster -> particular demographic overrepresented in the skills -> self-fullfilling  
+
+only white men are driving the agenda and in a self-fullfilling... 
 
 # What is PROUD? 
-PROUD is an inclusive R community for developers who primarily work in the pharmacuetical industry. 
+PROUD is an inclusive R community for developers who work in the pharma space. Trying to address the structural inequality that affects our community.  
 
 # What are PROUD's objectives? 
-The goals of PROUD are to provide a welcoming, equitable and supportive space for people to upskill, share knowledge and build their network. We hope this space will particularly build inclusibity for those that are underrepresented and underrecognised in more traditional communities. 
+The goals of PROUD are to provide a welcoming, equitable and supportive space for people to upskill, share knowledge and build their network. 
 
 # How can I get involved? 
 
+There are several ways to get involved with PROUD. We have two main tracks:
+
+1. Build your network  
+- enable conference organisers to select from a diverse pool of R developers for representations on panels, talks, etc.   
+- opportunty for cross-industry collaboration with focus on inclusivity  
+2. Upskilling and knowledge sharing  
+- 
+
 - slack? 
 - monthly meet ups / webinars 
+
+
+growing skills gap overrepresented in loud voices; 
+goal is to share knowledge in an inclusive way
+
+
+Overtime stats -> data scientist
+
+
 
