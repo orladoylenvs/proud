@@ -16,7 +16,7 @@ TL;DR
 Rage against the patriarchy. 
 
 In the long, long ago times of 2023 Orla and I were at a conference. As data scientist both of us decided to go to the panel on open souce. And you can imagine our astonishment when the panel came on stage and of the 11 people up there only 1 person wasn't white and only 1 person wasn't a man! 
-I may never know wether it was fate or just our general aura of feminisht rage that brought us together, but we saw each other from across the room and walk towards one another and struck up a conversation. Both of us where a bit agaust about the lack of diversity on this panel. We ended up chatting for few hours about the state of open source and how concerned we were that someone wasn't trying to stop the known inequality of the open source from reaching Pharma. That's when we realised, we were probably just as qualified as anyone else to do this. So we started PROUD. 
+I may never know wether it was fate or just our general aura of feminist rage that brought us together, but we saw each other from across the room and walk towards one another and struck up a conversation. Both of us where a bit agaust about the lack of diversity on this panel. We ended up chatting for few hours about the state of open source and how concerned we were that someone wasn't trying to stop the known inequality of the open source from reaching Pharma. That's when we realised, we were probably just as qualified as anyone else to do this. So we started PROUD. 
 
 time of change in terms of tools and tech -> people who already have the skills (exposure) progressing faster -> particular demographic overrepresented in the skills -> self-fullfilling  
 
