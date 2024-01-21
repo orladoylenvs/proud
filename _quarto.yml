@@ -7,12 +7,14 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: meetups.qmd
+        text: Meetups
 
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+    - minty
+    - style/custom.scss
     toc: true
 
 

@@ -3,52 +3,61 @@ title: "Pharma R Opportunities for Under-recognised Developers (PROUD)"
 description: Pharma R Opportunities for Under-recognised Developers
 ---
 
-_NAME ALTERNATIVES_:  
-- inclusiveR  
-- spotlight/R  
-- PharmaPROUD
+_NAME ALTERNATIVES_ (I wonder if PROUD is too close to PRIDE?):  
+- inclusiveR   
+- varianceR  
+- distinctR  
 
 # Who are the PROUD chairs?
-Christina, Orla, Harvey. 
+Christina Fillmore: Data Scientist at GSK.    
+Orla Doyle: Data Scientist at Novartis.      
+Harvey Liberman: Data Scientist At Novartis.   
 
 # What's our origin story?
-TL;DR 
-Rage against the patriarchy. 
+TL;DR - Rage against the patriarchal machine. 
 
-In the long, long ago times of 2023 Orla and I were at a conference. As data scientist both of us decided to go to the panel on open souce. And you can imagine our astonishment when the panel came on stage and of the 11 people up there only 1 person wasn't white and only 1 person wasn't a man! 
-I may never know wether it was fate or just our general aura of feminist rage that brought us together, but we saw each other from across the room and walk towards one another and struck up a conversation. Both of us where a bit agaust about the lack of diversity on this panel. We ended up chatting for few hours about the state of open source and how concerned we were that someone wasn't trying to stop the known inequality of the open source from reaching Pharma. That's when we realised, we were probably just as qualified as anyone else to do this. So we started PROUD. 
+In the not so distant era of 2023, Orla and Christina were at a conference. We both decided to go to the panel on open-source adoption in pharma. We were astonished when the panel came on stage and of the 11 people up there only 1 person wasn't white and only 1 person wasn't a man! 
 
-time of change in terms of tools and tech -> people who already have the skills (exposure) progressing faster -> particular demographic overrepresented in the skills -> self-fullfilling  
+We may never know wether it was fate or just our general aura of feminist rage that brought us together, but we struck up a conversation that lasted several hours. We wondered how we could ensure that the complex and impactful topic of the adoption of open-source is shaped by diverse voices with better diversity of ideas and approaches. That's when we realised, we were probably just as qualified as anyone else to do this. 
 
-only white men are driving the agenda and in a self-fullfilling... 
+Additionally we reflected on conferences and communities that are inclusive which led us to R/Pharma and Harvey Lieberman. We chatted to Harvey to share our ideas and we decided to create PROUD!    
+
 
 # What is PROUD? 
 PROUD is an inclusive R community for developers who work in the pharma space. Trying to address the structural inequality that affects our community.  
 
 # What are PROUD's objectives? 
-The goals of PROUD are to provide a welcoming, equitable and supportive space for people to upskill, share knowledge and build their network. 
+The goals of PROUD are to provide a welcoming, equitable and supportive space for people to upskill, share knowledge and build a community of diverse voices. 
 
-We are currently in a time of change in terms of tools and tech. Peple who already have these more "techy" skills will get more exposure and progress faster. Systemic inequality has made it so these skills are overrepresented in particular demographics, which is creates a self-sulling cycle. 
+Upskilling:
+Let's work together to identify topics that we can workshop and grow our skills. For e.g. use of git, best practice in R package development, etc. 
+
+Community:
+Build an inclusive community that offers opportunities for collaboration. Brainstorm how we can leverage this community as a resource for nominations for representation at conferences, working groups, etc. 
 
 # How can I get involved? 
 
-There are several ways to get involved with PROUD. We have two main tracks:
+There are several ways to get involved with PROUD. 
 
-1. Build your network  
-- enable conference organisers to select from a diverse pool of R developers for representations on panels, talks, etc.   
-- opportunty for cross-industry collaboration with focus on inclusivity  
-2. Upskilling and knowledge sharing  
-- 
+1. Participating in our monthly meetups:
+- learn new skills as we workshop open-source topics
+- help co-define the agenda and topics for future meetups
+- make new connections
+
+2. Co-host a workshop: 
+- is there a topic you are enthusiatic about that you'd like to share with the community 
+- did you have a steep learning curve that you want to soften for others - let's share our tips and tricks.
+
+3. Are you organising sessions and you want to tap into a diverse group of people:
+- the PROUD chairs would like to brainstorm how we can be more proactive about ensuring under-recognised people are better included. 
+
+
 
 - slack? 
 - monthly meet ups / webinars 
 
 
-growing skills gap overrepresented in loud voices; 
-goal is to share knowledge in an inclusive way
 
-
-Overtime stats -> data scientist
 
 
 
